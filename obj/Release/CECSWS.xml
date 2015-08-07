@@ -1,0 +1,49 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CECSWS
+</name>
+</assembly>
+<members>
+<member name="P:CECSWS.My.MyWebExtension.Computer">
+	<summary>
+ 傳回主機電腦的相關資訊。
+ </summary>
+</member><member name="P:CECSWS.My.MyWebExtension.User">
+	<summary>
+ 傳回目前 Web 使用者的資訊。
+ </summary>
+</member><member name="P:CECSWS.My.MyWebExtension.Request">
+	<summary>
+ 傳回 Request 物件。
+ </summary>
+</member><member name="P:CECSWS.My.MyWebExtension.Response">
+	<summary>
+ 傳回 Response 物件。
+ </summary>
+</member><member name="P:CECSWS.My.MyWebExtension.Log">
+	<summary>
+ 傳回 Asp 記錄物件。
+ </summary>
+</member><member name="T:CECSWS.My.MyWebExtension">
+	<summary>
+ 用來定義可用於 Web 專案 My 命名空間中之屬性的模組。
+ </summary>
+	<remarks></remarks>
+</member><member name="M:CECSWS.Service.register(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+	<summary>
+	</summary>
+	<param name="apikey"></param>
+	<param name="id"></param>
+	<param name="pwd"></param>
+	<param name="Name"></param>
+	<param name="MobilePhone"></param>
+	<param name="UDID"></param>
+	<param name="Email"></param>
+	<param name="Address"></param>
+	<returns>1: 註冊成功。-1: 帳號重複。0: 註冊失敗。-999: apikey錯誤</returns>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

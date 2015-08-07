@@ -1,0 +1,9 @@
+C:\Users\Stanley\Desktop\CECSWS\CECSWS\bin\CECSWS.dll
+C:\Users\Stanley\Desktop\CECSWS\CECSWS\bin\CECSWS.pdb
+C:\Users\Stanley\Desktop\CECSWS\CECSWS\bin\CECSWS.xml
+C:\Users\Stanley\Desktop\CECSWS\CECSWS\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Stanley\Desktop\CECSWS\CECSWS\obj\Release\CECSWS.Resources.resources
+C:\Users\Stanley\Desktop\CECSWS\CECSWS\obj\Release\CECSWS.vbproj.GenerateResource.Cache
+C:\Users\Stanley\Desktop\CECSWS\CECSWS\obj\Release\CECSWS.dll
+C:\Users\Stanley\Desktop\CECSWS\CECSWS\obj\Release\CECSWS.xml
+C:\Users\Stanley\Desktop\CECSWS\CECSWS\obj\Release\CECSWS.pdb
